@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\bin\Debug\satranc_saati.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\bin\Debug\satranc_saati.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\bin\Debug\satranc_saati.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\satranc_saati\satranc_saati\obj\Debug\satranc_saati.pdb
